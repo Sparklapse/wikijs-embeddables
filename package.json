@@ -1,12 +1,10 @@
 {
   "name": "wikijs-embeddables",
   "version": "1.0.0",
-  "description": "",
+  "description": "Some easy to use web components for your wiki.js site",
   "main": "src/index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "keywords": [
+    "wikijs", "web-components"
+  ],
+  "author": "mr-josh"
 }
